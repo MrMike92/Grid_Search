@@ -1,0 +1,3 @@
+Parámetros: max_depth=3, learning_rate=0.2, n_estimators=300
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.6402
