@@ -1,0 +1,119 @@
+Ejecutando con 1 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 30, 'min_samples_split': 2, 'min_samples_leaf': 2}, Precisión: 0.939951, Recall: 0.939951, Tiempo: 0.092606s
+Peor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 30, 'min_samples_split': 2, 'min_samples_leaf': 1}, Precisión: 0.927696, Recall: 0.927696, Tiempo: 0.093623s
+Precisión promedio: 0.932053, Recall promedio: 0.932053, Tiempo promedio: 0.205254s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.005508s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.005508s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.005508s
+
+Ejecutando con 2 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 1}, Precisión: 0.937500, Recall: 0.937500, Tiempo: 0.092641s
+Peor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 30, 'min_samples_split': 2, 'min_samples_leaf': 1}, Precisión: 0.926471, Recall: 0.926471, Tiempo: 0.095116s
+Precisión promedio: 0.932121, Recall promedio: 0.932121, Tiempo promedio: 0.206155s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.005509s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.005509s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.005509s
+
+Ejecutando con 3 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 100, 'max_depth': 30, 'min_samples_split': 5, 'min_samples_leaf': 2}, Precisión: 0.941176, Recall: 0.941176, Tiempo: 0.183797s
+Peor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 30, 'min_samples_split': 2, 'min_samples_leaf': 1}, Precisión: 0.926471, Recall: 0.926471, Tiempo: 0.098619s
+Precisión promedio: 0.931985, Recall promedio: 0.931985, Tiempo promedio: 0.211286s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.006501s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.006501s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.006501s
+
+Ejecutando con 4 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 200, 'max_depth': 30, 'min_samples_split': 5, 'min_samples_leaf': 2}, Precisión: 0.937500, Recall: 0.937500, Tiempo: 0.355205s
+Peor resultado: Hiperparámetros: {'n_estimators': 100, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 1}, Precisión: 0.925245, Recall: 0.925245, Tiempo: 0.193235s
+Precisión promedio: 0.932053, Recall promedio: 0.932053, Tiempo promedio: 0.211186s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.005518s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.005518s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.005518s
+
+Ejecutando con 5 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 30, 'min_samples_split': 2, 'min_samples_leaf': 2}, Precisión: 0.935049, Recall: 0.935049, Tiempo: 0.097713s
+Peor resultado: Hiperparámetros: {'n_estimators': 200, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 1}, Precisión: 0.925245, Recall: 0.925245, Tiempo: 0.368750s
+Precisión promedio: 0.931713, Recall promedio: 0.931713, Tiempo promedio: 0.212879s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.005999s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.005999s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.005999s
+
+Ejecutando con 6 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 200, 'max_depth': 30, 'min_samples_split': 2, 'min_samples_leaf': 2}, Precisión: 0.937500, Recall: 0.937500, Tiempo: 0.361485s
+Peor resultado: Hiperparámetros: {'n_estimators': 200, 'max_depth': 30, 'min_samples_split': 2, 'min_samples_leaf': 1}, Precisión: 0.926471, Recall: 0.926471, Tiempo: 0.383399s
+Precisión promedio: 0.932326, Recall promedio: 0.932326, Tiempo promedio: 0.215122s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.007000s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.007000s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.007000s
+
+Ejecutando con 7 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 100, 'max_depth': 30, 'min_samples_split': 5, 'min_samples_leaf': 2}, Precisión: 0.941176, Recall: 0.941176, Tiempo: 0.201131s
+Peor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 2}, Precisión: 0.927696, Recall: 0.927696, Tiempo: 0.095276s
+Precisión promedio: 0.932428, Recall promedio: 0.932428, Tiempo promedio: 0.227387s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.006504s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.006504s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.006504s
+
+Ejecutando con 8 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 2}, Precisión: 0.937500, Recall: 0.937500, Tiempo: 0.127512s
+Peor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 1}, Precisión: 0.925245, Recall: 0.925245, Tiempo: 0.104770s
+Precisión promedio: 0.932224, Recall promedio: 0.932224, Tiempo promedio: 0.239956s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.006504s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.006504s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.006504s
+
+Ejecutando con 9 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 2}, Precisión: 0.936275, Recall: 0.936275, Tiempo: 0.134058s
+Peor resultado: Hiperparámetros: {'n_estimators': 100, 'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 1}, Precisión: 0.927696, Recall: 0.927696, Tiempo: 0.182595s
+Precisión promedio: 0.932632, Recall promedio: 0.932632, Tiempo promedio: 0.244719s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.006516s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.006516s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.006516s
+
+Ejecutando con 10 hilos...
+
+--- Resultados de Random Forest ---
+Mejor resultado: Hiperparámetros: {'n_estimators': 100, 'max_depth': 30, 'min_samples_split': 2, 'min_samples_leaf': 2}, Precisión: 0.938725, Recall: 0.938725, Tiempo: 0.232004s
+Peor resultado: Hiperparámetros: {'n_estimators': 50, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 1}, Precisión: 0.925245, Recall: 0.925245, Tiempo: 0.155142s
+Precisión promedio: 0.932224, Recall promedio: 0.932224, Tiempo promedio: 0.259046s
+
+--- Resultados de Naive Bayes ---
+Mejor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.007000s
+Peor resultado: Precisión: 0.928922, Recall: 0.928922, Tiempo: 0.007000s
+Precisión promedio: 0.928922, Recall promedio: 0.928922, Tiempo promedio: 0.007000s
