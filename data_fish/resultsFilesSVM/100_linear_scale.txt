@@ -1,0 +1,3 @@
+Parámetros: C=100, Kernel=linear, Gamma=scale
+Características utilizadas: length, weight, w_l_ratio
+Accuracy: 0.9350
