@@ -1,14 +1,106 @@
-Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
 Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
 Accuracy: 0.4045
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.4045
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.4045
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.4045
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5087
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.4045
+================================================================================
+Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
 ================================================================================
 Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
 Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
 Accuracy: 0.5955
 ================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.1
 Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
+Accuracy: 0.4045
 ================================================================================
 Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.1
 Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
@@ -18,111 +110,19 @@ Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=R
 Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
 Accuracy: 0.4045
 ================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5980
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
 Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.1
 Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
 Accuracy: 0.5955
 ================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
+Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
+Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
+Accuracy: 0.5955
+================================================================================
+Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.1
 Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
 Accuracy: 0.5955
 ================================================================================
 Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.1
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.4045
-================================================================================
-Parámetros: hidden_layers=3, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.1
 Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
 Accuracy: 0.4045
 ================================================================================

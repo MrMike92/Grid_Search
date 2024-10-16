@@ -1,0 +1,103 @@
+Hilos utilizados: 1
+Mejor precisión: 0.5980; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Ejecutado en 86.07 segundos
+================================================================================
+Hilos utilizados: 2
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 49.54 segundos
+================================================================================
+Hilos utilizados: 3
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
+Ejecutado en 21.62 segundos
+================================================================================
+Hilos utilizados: 4
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Ejecutado en 19.22 segundos
+================================================================================
+Hilos utilizados: 5
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 16.35 segundos
+================================================================================
+Hilos utilizados: 6
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 15.35 segundos
+================================================================================
+Hilos utilizados: 7
+Mejor precisión: 0.5955; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
+Ejecutado en 14.25 segundos
+================================================================================
+Hilos utilizados: 8
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Ejecutado en 15.34 segundos
+================================================================================
+Hilos utilizados: 9
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.1
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Ejecutado en 14.29 segundos
+================================================================================
+Hilos utilizados: 10
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.1
+Ejecutado en 15.13 segundos
+================================================================================
+Hilos utilizados: 11
+Mejor precisión: 0.5955; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 16.04 segundos
+================================================================================
+Hilos utilizados: 12
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 15.80 segundos
+================================================================================
+Hilos utilizados: 13
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Ejecutado en 16.38 segundos
+================================================================================
+Hilos utilizados: 14
+Mejor precisión: 0.5955; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 16.16 segundos
+================================================================================
+Hilos utilizados: 15
+Mejor precisión: 0.5955; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 17.10 segundos
+================================================================================
+Hilos utilizados: 16
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 17.69 segundos
+================================================================================
+Hilos utilizados: 17
+Mejor precisión: 0.5955; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
+Peor precisión: 0.4045; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 17.66 segundos
+================================================================================
+Hilos utilizados: 18
+Mejor precisión: 0.5955; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 18.18 segundos
+================================================================================
+Hilos utilizados: 19
+Mejor precisión: 0.5955; Parámetros: hidden_layers=3, hidden_neurons=32, learning_rate=0.01, activation=ReLU, regularization=L2, regularization_rate=0.1
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Ejecutado en 18.81 segundos
+================================================================================
+Hilos utilizados: 20
+Mejor precisión: 0.5955; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L1, regularization_rate=0.01
+Peor precisión: 0.4045; Parámetros: hidden_layers=2, hidden_neurons=64, learning_rate=0.1, activation=ReLU, regularization=L2, regularization_rate=0.01
+Ejecutado en 18.46 segundos
+================================================================================
+Resumen final de tiempos de ejecución:
+Mejor tiempo de ejecución: 14.25 segundos con 7 hilos
+Peor tiempo de ejecución: 86.07 segundos con 1 hilos
