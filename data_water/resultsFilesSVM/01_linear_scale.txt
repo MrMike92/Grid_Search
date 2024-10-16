@@ -1,3 +1,0 @@
-Parámetros: C=0.1, Kernel=linear, Gamma=scale
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955

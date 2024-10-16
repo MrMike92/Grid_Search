@@ -1,3 +1,0 @@
-Parámetros: C=1, Kernel=poly, Gamma=auto
-Características utilizadas: length, weight, w_l_ratio
-Accuracy: 0.9350

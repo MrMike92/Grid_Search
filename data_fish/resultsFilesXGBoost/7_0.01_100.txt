@@ -1,3 +1,0 @@
-Parámetros: max_depth=7, learning_rate=0.01, n_estimators=100
-Características utilizadas: length, weight, w_l_ratio
-Accuracy: 0.3346

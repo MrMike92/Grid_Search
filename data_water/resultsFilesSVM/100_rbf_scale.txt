@@ -1,3 +1,0 @@
-Parámetros: C=100, Kernel=rbf, Gamma=scale
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5955

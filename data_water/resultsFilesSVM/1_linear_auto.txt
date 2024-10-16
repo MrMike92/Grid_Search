@@ -1,3 +1,0 @@
-Parámetros: C=1, Kernel=linear, Gamma=auto
-Características utilizadas: ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, Turbidity
-Accuracy: 0.5906
