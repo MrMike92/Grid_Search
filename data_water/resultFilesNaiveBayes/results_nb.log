@@ -1,0 +1,61 @@
+Resultados GaussianNB
+
+--- Resultados con 1 hilos ---
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.607940446650124, 'recall': 0.2331288343558282, 'time': 0.004508495330810547}
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.598014888337469, 'recall': 0.24539877300613497, 'time': 0.003999471664428711}
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6153846153846154, 'recall': 0.19631901840490798, 'time': 0.0040018558502197266}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.607940446650124, 'recall': 0.147239263803681, 'time': 0.004507541656494141}
+
+--- Resultados con 2 hilos ---
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.6426799007444168, 'recall': 0.20245398773006135, 'time': 0.005473136901855469}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.6178660049627791, 'recall': 0.22085889570552147, 'time': 0.004999399185180664}
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.6153846153846154, 'recall': 0.3006134969325153, 'time': 0.005472898483276367}
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6277915632754343, 'recall': 0.2147239263803681, 'time': 0.0039997100830078125}
+
+--- Resultados con 3 hilos ---
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.6129032258064516, 'recall': 0.2392638036809816, 'time': 0.005510091781616211}
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.5930521091811415, 'recall': 0.1901840490797546, 'time': 0.005510091781616211}
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.6054590570719603, 'recall': 0.2883435582822086, 'time': 0.005510091781616211}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.6253101736972705, 'recall': 0.17177914110429449, 'time': 0.003998279571533203}
+
+--- Resultados con 4 hilos ---
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.5955334987593052, 'recall': 0.26993865030674846, 'time': 0.006029844284057617}
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6277915632754343, 'recall': 0.2147239263803681, 'time': 0.007033824920654297}
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.5930521091811415, 'recall': 0.17791411042944785, 'time': 0.006003618240356445}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.6253101736972705, 'recall': 0.18404907975460122, 'time': 0.00801539421081543}
+
+--- Resultados con 5 hilos ---
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6178660049627791, 'recall': 0.2085889570552147, 'time': 0.006000518798828125}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.598014888337469, 'recall': 0.1901840490797546, 'time': 0.006000518798828125}
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.6153846153846154, 'recall': 0.25153374233128833, 'time': 0.006000518798828125}
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.6228287841191067, 'recall': 0.22085889570552147, 'time': 0.006136417388916016}
+
+--- Resultados con 6 hilos ---
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.6054590570719603, 'recall': 0.2085889570552147, 'time': 0.006522178649902344}
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.6178660049627791, 'recall': 0.19631901840490798, 'time': 0.009034395217895508}
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6228287841191067, 'recall': 0.2085889570552147, 'time': 0.006512165069580078}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.6228287841191067, 'recall': 0.19631901840490798, 'time': 0.00850534439086914}
+
+--- Resultados con 7 hilos ---
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.5930521091811415, 'recall': 0.26380368098159507, 'time': 0.010448217391967773}
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6377171215880894, 'recall': 0.22699386503067484, 'time': 0.007010936737060547}
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.630272952853598, 'recall': 0.26380368098159507, 'time': 0.007002830505371094}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.6153846153846154, 'recall': 0.17791411042944785, 'time': 0.0075168609619140625}
+
+--- Resultados con 8 hilos ---
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6004962779156328, 'recall': 0.20245398773006135, 'time': 0.006001472473144531}
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.630272952853598, 'recall': 0.22085889570552147, 'time': 0.007533550262451172}
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.6253101736972705, 'recall': 0.25153374233128833, 'time': 0.008197546005249023}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.6203473945409429, 'recall': 0.2147239263803681, 'time': 0.007997989654541016}
+
+--- Resultados con 9 hilos ---
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.5880893300248139, 'recall': 0.2085889570552147, 'time': 0.009514331817626953}
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6203473945409429, 'recall': 0.2147239263803681, 'time': 0.009519577026367188}
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.607940446650124, 'recall': 0.24539877300613497, 'time': 0.008324623107910156}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.6004962779156328, 'recall': 0.17791411042944785, 'time': 0.007092714309692383}
+
+--- Resultados con 10 hilos ---
+{'params': {'var_smoothing': 1e-09}, 'accuracy': 0.6029776674937966, 'recall': 0.27607361963190186, 'time': 0.012209892272949219}
+{'params': {'var_smoothing': 1e-06}, 'accuracy': 0.5781637717121588, 'recall': 0.18404907975460122, 'time': 0.011318445205688477}
+{'params': {'var_smoothing': 1e-08}, 'accuracy': 0.6029776674937966, 'recall': 0.18404907975460122, 'time': 0.008518218994140625}
+{'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6352357320099256, 'recall': 0.2085889570552147, 'time': 0.011525154113769531}

@@ -1,0 +1,57 @@
+Resumen General de Random Forest
+
+--- Resultados con 1 hilos ---
+Mejor resultado: {'params': {'n_estimators': 100, 'max_depth': 10, 'min_samples_split': 2, 'min_samples_leaf': 2}, 'accuracy': 0.71712158808933, 'recall': 0.4171779141104294, 'time': 0.32980942726135254}
+Peor resultado: {'params': {'n_estimators': 50, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 2}, 'accuracy': 0.6327543424317618, 'recall': 0.3496932515337423, 'time': 0.22999310493469238}
+Promedio - Accuracy: 0.6825889164598841, Recall: 0.40149965916837077, Tiempo: 0.4458881484137641 segundos
+
+--- Resultados con 2 hilos ---
+Mejor resultado: {'params': {'n_estimators': 100, 'max_depth': 30, 'min_samples_split': 2, 'min_samples_leaf': 2}, 'accuracy': 0.7146401985111662, 'recall': 0.4662576687116564, 'time': 0.4273967742919922}
+Peor resultado: {'params': {'n_estimators': 50, 'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 1}, 'accuracy': 0.6327543424317618, 'recall': 0.2883435582822086, 'time': 0.17481589317321777}
+Promedio - Accuracy: 0.6807278742762614, Recall: 0.3919563735514655, Tiempo: 0.4593863818380568 segundos
+
+--- Resultados con 3 hilos ---
+Mejor resultado: {'params': {'n_estimators': 50, 'max_depth': 10, 'min_samples_split': 2, 'min_samples_leaf': 1}, 'accuracy': 0.7047146401985112, 'recall': 0.3803680981595092, 'time': 0.17826008796691895}
+Peor resultado: {'params': {'n_estimators': 50, 'max_depth': 10, 'min_samples_split': 2, 'min_samples_leaf': 2}, 'accuracy': 0.6426799007444168, 'recall': 0.3067484662576687, 'time': 0.17577433586120605}
+Promedio - Accuracy: 0.6760408050730632, Recall: 0.38718473074301296, Tiempo: 0.4726586805449592 segundos
+
+--- Resultados con 4 hilos ---
+Mejor resultado: {'params': {'n_estimators': 50, 'max_depth': 10, 'min_samples_split': 2, 'min_samples_leaf': 1}, 'accuracy': 0.71712158808933, 'recall': 0.43558282208588955, 'time': 0.1814131736755371}
+Peor resultado: {'params': {'n_estimators': 100, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 2}, 'accuracy': 0.6352357320099256, 'recall': 0.37423312883435583, 'time': 0.4177858829498291}
+Promedio - Accuracy: 0.676867934932451, Recall: 0.3837764144512611, Tiempo: 0.4714320699373881 segundos
+
+--- Resultados con 5 hilos ---
+Mejor resultado: {'params': {'n_estimators': 100, 'max_depth': 30, 'min_samples_split': 5, 'min_samples_leaf': 1}, 'accuracy': 0.7146401985111662, 'recall': 0.4662576687116564, 'time': 0.4618527889251709}
+Peor resultado: {'params': {'n_estimators': 50, 'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 1}, 'accuracy': 0.6401985111662531, 'recall': 0.31901840490797545, 'time': 0.1838078498840332}
+Promedio - Accuracy: 0.6736283429831817, Recall: 0.39519427402862983, Tiempo: 0.48456017838584053 segundos
+
+--- Resultados con 6 hilos ---
+Mejor resultado: {'params': {'n_estimators': 200, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 1}, 'accuracy': 0.7121588089330024, 'recall': 0.4539877300613497, 'time': 0.9207208156585693}
+Peor resultado: {'params': {'n_estimators': 50, 'max_depth': 10, 'min_samples_split': 2, 'min_samples_leaf': 1}, 'accuracy': 0.6327543424317618, 'recall': 0.25766871165644173, 'time': 0.1983346939086914}
+Promedio - Accuracy: 0.6776950647918389, Recall: 0.3781526925698705, Tiempo: 0.4937872886657715 segundos
+
+--- Resultados con 7 hilos ---
+Mejor resultado: {'params': {'n_estimators': 200, 'max_depth': 10, 'min_samples_split': 2, 'min_samples_leaf': 1}, 'accuracy': 0.7146401985111662, 'recall': 0.43558282208588955, 'time': 0.7663118839263916}
+Peor resultado: {'params': {'n_estimators': 50, 'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 2}, 'accuracy': 0.6327543424317618, 'recall': 0.3374233128834356, 'time': 0.19280457496643066}
+Promedio - Accuracy: 0.6754893851668046, Recall: 0.3876959781867757, Tiempo: 0.5082207520802816 segundos
+
+--- Resultados con 8 hilos ---
+Mejor resultado: {'params': {'n_estimators': 200, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 1}, 'accuracy': 0.7047146401985112, 'recall': 0.4294478527607362, 'time': 0.9122145175933838}
+Peor resultado: {'params': {'n_estimators': 100, 'max_depth': 30, 'min_samples_split': 5, 'min_samples_leaf': 1}, 'accuracy': 0.6401985111662531, 'recall': 0.44171779141104295, 'time': 0.5009825229644775}
+Promedio - Accuracy: 0.6757650951199339, Recall: 0.3929788684389911, Tiempo: 0.5290089183383517 segundos
+
+--- Resultados con 9 hilos ---
+Mejor resultado: {'params': {'n_estimators': 100, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 1}, 'accuracy': 0.7146401985111662, 'recall': 0.4662576687116564, 'time': 0.4764068126678467}
+Peor resultado: {'params': {'n_estimators': 50, 'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 2}, 'accuracy': 0.652605459057072, 'recall': 0.2883435582822086, 'time': 0.20285415649414062}
+Promedio - Accuracy: 0.6796939619520265, Recall: 0.39042263122017723, Tiempo: 0.5273133118947347 segundos
+
+--- Resultados con 10 hilos ---
+Mejor resultado: {'params': {'n_estimators': 50, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 2}, 'accuracy': 0.7245657568238213, 'recall': 0.4723926380368098, 'time': 0.2489473819732666}
+Peor resultado: {'params': {'n_estimators': 200, 'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 1}, 'accuracy': 0.6476426799007444, 'recall': 0.31901840490797545, 'time': 0.7177226543426514}
+Promedio - Accuracy: 0.6806589467879791, Recall: 0.3965576005453306, Tiempo: 0.5521035724216037 segundos
+
+
+--- Resumen general de todos los hilos ---
+Mejor resultado general: {'params': {'n_estimators': 50, 'max_depth': 20, 'min_samples_split': 5, 'min_samples_leaf': 2}, 'accuracy': 0.7245657568238213, 'recall': 0.4723926380368098, 'time': 0.2489473819732666}
+Peor resultado general: {'params': {'n_estimators': 50, 'max_depth': 20, 'min_samples_split': 2, 'min_samples_leaf': 2}, 'accuracy': 0.6327543424317618, 'recall': 0.3496932515337423, 'time': 0.22999310493469238}
+Promedio general - Accuracy: 0.6779156327543425, Recall: 0.3905419222903885, Tiempo: 0.4944359302520752 segundos

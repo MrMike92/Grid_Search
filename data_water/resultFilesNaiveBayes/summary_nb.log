@@ -1,0 +1,57 @@
+Resumen General de Naive Bayes
+
+--- Resultados con 1 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6153846153846154, 'recall': 0.19631901840490798, 'time': 0.0040018558502197266}
+Peor resultado: {'params': {'var_smoothing': 1e-08}, 'accuracy': 0.598014888337469, 'recall': 0.24539877300613497, 'time': 0.003999471664428711}
+Promedio - Accuracy: 0.6073200992555832, Recall: 0.20552147239263804, Tiempo: 0.004254341125488281 segundos
+
+--- Resultados con 2 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-08}, 'accuracy': 0.6426799007444168, 'recall': 0.20245398773006135, 'time': 0.005473136901855469}
+Peor resultado: {'params': {'var_smoothing': 1e-09}, 'accuracy': 0.6153846153846154, 'recall': 0.3006134969325153, 'time': 0.005472898483276367}
+Promedio - Accuracy: 0.6259305210918114, Recall: 0.23466257668711657, Tiempo: 0.004986286163330078 segundos
+
+--- Resultados con 3 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-06}, 'accuracy': 0.6253101736972705, 'recall': 0.17177914110429449, 'time': 0.003998279571533203}
+Peor resultado: {'params': {'var_smoothing': 1e-07}, 'accuracy': 0.5930521091811415, 'recall': 0.1901840490797546, 'time': 0.005510091781616211}
+Promedio - Accuracy: 0.609181141439206, Recall: 0.22239263803680984, Tiempo: 0.005132138729095459 segundos
+
+--- Resultados con 4 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6277915632754343, 'recall': 0.2147239263803681, 'time': 0.007033824920654297}
+Peor resultado: {'params': {'var_smoothing': 1e-08}, 'accuracy': 0.5930521091811415, 'recall': 0.17791411042944785, 'time': 0.006003618240356445}
+Promedio - Accuracy: 0.6104218362282879, Recall: 0.2116564417177914, Tiempo: 0.006770670413970947 segundos
+
+--- Resultados con 5 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-09}, 'accuracy': 0.6228287841191067, 'recall': 0.22085889570552147, 'time': 0.006136417388916016}
+Peor resultado: {'params': {'var_smoothing': 1e-06}, 'accuracy': 0.598014888337469, 'recall': 0.1901840490797546, 'time': 0.006000518798828125}
+Promedio - Accuracy: 0.6135235732009925, Recall: 0.2177914110429448, Tiempo: 0.006034493446350098 segundos
+
+--- Resultados con 6 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6228287841191067, 'recall': 0.2085889570552147, 'time': 0.006512165069580078}
+Peor resultado: {'params': {'var_smoothing': 1e-09}, 'accuracy': 0.6054590570719603, 'recall': 0.2085889570552147, 'time': 0.006522178649902344}
+Promedio - Accuracy: 0.6172456575682382, Recall: 0.20245398773006135, Tiempo: 0.007643520832061768 segundos
+
+--- Resultados con 7 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6377171215880894, 'recall': 0.22699386503067484, 'time': 0.007010936737060547}
+Peor resultado: {'params': {'var_smoothing': 1e-09}, 'accuracy': 0.5930521091811415, 'recall': 0.26380368098159507, 'time': 0.010448217391967773}
+Promedio - Accuracy: 0.6191066997518611, Recall: 0.23312883435582818, Tiempo: 0.00799471139907837 segundos
+
+--- Resultados con 8 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-08}, 'accuracy': 0.630272952853598, 'recall': 0.22085889570552147, 'time': 0.007533550262451172}
+Peor resultado: {'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6004962779156328, 'recall': 0.20245398773006135, 'time': 0.006001472473144531}
+Promedio - Accuracy: 0.6191066997518611, Recall: 0.2223926380368098, Tiempo: 0.0074326395988464355 segundos
+
+--- Resultados con 9 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6203473945409429, 'recall': 0.2147239263803681, 'time': 0.009519577026367188}
+Peor resultado: {'params': {'var_smoothing': 1e-08}, 'accuracy': 0.5880893300248139, 'recall': 0.2085889570552147, 'time': 0.009514331817626953}
+Promedio - Accuracy: 0.6042183622828784, Recall: 0.2116564417177914, Tiempo: 0.00861281156539917 segundos
+
+--- Resultados con 10 hilos ---
+Mejor resultado: {'params': {'var_smoothing': 1e-07}, 'accuracy': 0.6352357320099256, 'recall': 0.2085889570552147, 'time': 0.011525154113769531}
+Peor resultado: {'params': {'var_smoothing': 1e-06}, 'accuracy': 0.5781637717121588, 'recall': 0.18404907975460122, 'time': 0.011318445205688477}
+Promedio - Accuracy: 0.6048387096774194, Recall: 0.21319018404907977, Tiempo: 0.010892927646636963 segundos
+
+
+--- Resumen general de todos los hilos ---
+Mejor resultado general: {'params': {'var_smoothing': 1e-08}, 'accuracy': 0.6426799007444168, 'recall': 0.20245398773006135, 'time': 0.005473136901855469}
+Peor resultado general: {'params': {'var_smoothing': 1e-06}, 'accuracy': 0.5781637717121588, 'recall': 0.18404907975460122, 'time': 0.011318445205688477}
+Promedio general - Accuracy: 0.6130893300248139, Recall: 0.21748466257668714, Tiempo: 0.006975454092025757 segundos
